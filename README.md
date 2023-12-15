@@ -2,13 +2,13 @@
 
 ## Owner Information 
 ### Name : 
-Aman Bhardwaj
+Nilakshi Neel 
 ### College : 
-IIT(ISM) Dhanbad, India 
+IIT (ISM) Dhanbad, India 
 ### Contact : 
-amanbhardwaj12072003@gmail.com
+iamnilakshi7925@gmail.com 
 ### Alternate Contact : 
-21je0081@iitism.ac.in
+21je0604@iitism.ac.in
 ### Project Category : 
 Personal Project
 
